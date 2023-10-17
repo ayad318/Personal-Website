@@ -9,6 +9,14 @@ function App() {
                 <a href="http://">books</a>
                 <button onClick={() => {}}>Upload Resume</button>
             </header>
+            <main>
+                <h2>Experience</h2>
+                <ul>
+                    <li>Company 1</li>
+                    <li>Company 2</li>
+                    <li>Company 3</li>
+                </ul>
+            </main>
         </div>
     );
 }
