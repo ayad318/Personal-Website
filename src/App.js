@@ -38,7 +38,7 @@ function App() {
                         </a>
                     </p>
                     <p>
-                        Phone: <a href="tes:+61401077009">+61 401 077 009</a>
+                        Phone: <a href="tel:+61401077009">+61 401 077 009</a>
                     </p>
                 </div>
                 {/* Resume Button */}
@@ -60,7 +60,7 @@ function App() {
                     relevant information.
                 </p>
                 <a
-                    href="YOUR_SHEET_LINK_HERE"
+                    href="https://ayad-books.notion.site/855dbfb94c324b10ad9a3e8d7579f50f?v=4d688cf8f5e64b929f17695b00050afd&pvs=4"
                     className="books-link"
                     target="_blank"
                     rel="noopener noreferrer"
