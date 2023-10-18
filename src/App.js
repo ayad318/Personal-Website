@@ -1,25 +1,51 @@
 import "./App.css";
+import image from "./myImage.jpg";
 
 function App() {
     return (
         <div className="container">
             <div className="left-column">
                 {/* Personal Info */}
-                <div>
+
+                <div className="social-links">
                     <h2>Ayad Farhat</h2>
-                    <p>Software Engineer</p>
+                    <a
+                        href="https://linkedin.com/in/ayad-farhat"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <i
+                            className="fa fa-linkedin-square"
+                            aria-hidden="true"
+                        ></i>
+                    </a>
+                    <a
+                        href="https://github.com/ayad318"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <i className="fa fa-github" aria-hidden="true"></i>
+                    </a>
                 </div>
+
+                <img src={image} alt="Ayad Farhat" className="profile-image" />
 
                 <div>
-                    <p>Email: your@email.com</p>
-                    <p>Phone: +123-456-7890</p>
+                    <p>
+                        Email:{" "}
+                        <a href="mailto: ayad.farhat2001@gmail.com">
+                            ayad.farhat2001@gmail.com
+                        </a>
+                    </p>
+                    <p>
+                        Phone: <a href="tes:+61401077009">+61 401 077 009</a>
+                    </p>
                 </div>
-
                 {/* Resume Button */}
                 <a
-                    href="path_to_your_resume.pdf"
+                    href="/CV.pdf"
                     className="resume-button"
-                    download="Your_Name_Resume"
+                    download="Ayad's_Resume.pdf"
                 >
                     Download My Resume
                 </a>
