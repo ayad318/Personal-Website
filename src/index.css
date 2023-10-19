@@ -16,20 +16,21 @@
 body,
 html {
   height: 100%;
-  /* Full height to allow for centering */
+  /* Ensure full height */
+  margin: 0;
+  padding: 0;
 }
 body {
   display: flex;
   justify-content: center;
-  /* Center horizontally */
   align-items: center;
-  /* Center vertically */
+  /* Centers .container both vertically and horizontally */
+  min-height: 100vh;
+  /* Full viewport height */
   font-family: 'Arial', sans-serif;
   background-color: #FAF3E0;
   color: #4B3F2F;
   line-height: 1.6;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 code {
