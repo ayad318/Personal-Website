@@ -68,7 +68,7 @@ function App() {
                     court, or immersed in a compelling read. For those intrigued
                     by my literary adventures, you can explore{" "}
                     <a
-                        href="https://ayad-books.notion.site/855dbfb94c324b10ad9a3e8d7579f50f?v=4d688cf8f5e64b929f17695b00050afd&pvs=4"
+                        href="https://www.goodreads.com/review/list/96235225"
                         className="books-link"
                         target="_blank"
                         rel="noopener noreferrer"
