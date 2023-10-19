@@ -68,7 +68,7 @@ function App() {
                     court, or immersed in a compelling read. For those intrigued
                     by my literary adventures, you can explore{" "}
                     <a
-                        href="https://www.goodreads.com/review/list/96235225"
+                        href="https://www.goodreads.com/review/list/96235225?sort=rating"
                         className="books-link"
                         target="_blank"
                         rel="noopener noreferrer"
