@@ -55,18 +55,30 @@ function App() {
                 {/* One Page Description */}
                 <h1>About Me</h1>
                 <p>
-                    This is where you can write a detailed description about
-                    yourself, your experience, achievements, and any other
-                    relevant information.
+                    Based in Sydney, my interests as a software engineer are
+                    diverse and ever-evolving. I'm particularly drawn to the
+                    potential of blockchain and the details of smart contract
+                    development. I have a keen interest in data structures and
+                    algorithms, as they present intriguing puzzles to unravel.
+                    I'm also drawn to the challenges offered by distributed
+                    systems and multithreading. Both these areas keep my
+                    curiosity piqued and my skills sharpened. Beyond the tech
+                    realm, my downtime sees me on the basketball court,
+                    strategizing over a chessboard, rallying on the tennis
+                    court, or immersed in a compelling read. For those intrigued
+                    by my literary adventures, you can explore{" "}
+                    <a
+                        href="https://ayad-books.notion.site/855dbfb94c324b10ad9a3e8d7579f50f?v=4d688cf8f5e64b929f17695b00050afd&pvs=4"
+                        className="books-link"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        the books I've delved into
+                    </a>
+                    . Each of these passions provides a distinct flavor to my
+                    daily life, and I relish the balance they bring.
                 </p>
-                <a
-                    href="https://ayad-books.notion.site/855dbfb94c324b10ad9a3e8d7579f50f?v=4d688cf8f5e64b929f17695b00050afd&pvs=4"
-                    className="books-link"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Books I've Read
-                </a>
+
                 {/* ... add more content as needed ... */}
             </div>
         </div>

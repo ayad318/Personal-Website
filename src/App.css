@@ -53,8 +53,8 @@
   /* Deep brown color to match your theme */
   text-decoration: underline;
   /* Underline to indicate it's a clickable link */
-  margin-top: 10px;
-  /* Spacing from previous elements */
+  
+  
   display: inline-block;
   /* Allows for margin-top */
   transition: color 0.3s ease;
