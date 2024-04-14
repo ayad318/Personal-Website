@@ -56,30 +56,28 @@ function App() {
                 <h1>About Me</h1>
                 <p>
                     Based in Sydney, my interests as a software engineer are
-                    diverse and ever-evolving. I'm particularly drawn to the
-                    potential of blockchain and the details of smart contract
-                    development. I have a keen interest in data structures and
-                    algorithms, as they present intriguing puzzles to unravel.
-                    I'm also drawn to the challenges offered by distributed
-                    systems and multithreading. Both these areas keep my
-                    curiosity piqued and my skills sharpened. Beyond the tech
-                    realm, my downtime sees me on the basketball court,
-                    strategizing over a chessboard, rallying on the tennis
-                    court, or immersed in a compelling read. For those intrigued
-                    by my literary adventures, you can explore{" "}
+                    diverse and evolving. I'm particularly drawn to blockchain
+                    related technologies and smart contract development. I have
+                    a keen interest in data structures and algorithms, as they
+                    present intriguing puzzles to unravel. I'm also drawn to the
+                    challenges offered by distributed systems and
+                    multithreading. Both these areas keep my curiosity piqued
+                    and my skills sharpened. Beyond the tech realm, my downtime
+                    sees me on the basketball court, strategizing over a
+                    chessboard, rallying on the tennis court, or immersed in a
+                    compelling read. For those intrigued by my literary
+                    adventures, you can explore{" "}
                     <a
                         href="https://www.goodreads.com/review/list/96235225?sort=rating"
                         className="books-link"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        the books I've delved into
+                        the books I've read
                     </a>
                     . Each of these passions provides a distinct flavor to my
                     daily life, and I relish the balance they bring.
                 </p>
-
-                {/* ... add more content as needed ... */}
             </div>
         </div>
     );
