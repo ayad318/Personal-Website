@@ -5,8 +5,6 @@ function App() {
     return (
         <div className="container">
             <div className="left-column">
-                {/* Personal Info */}
-
                 <div className="social-links">
                     <h2>Ayad Farhat</h2>
                     <a
@@ -41,7 +39,6 @@ function App() {
                         Phone: <a href="tel:+61401077009">+61 401 077 009</a>
                     </p>
                 </div>
-                {/* Resume Button */}
                 <a
                     href="/CV.pdf"
                     className="resume-button"
@@ -52,31 +49,22 @@ function App() {
             </div>
 
             <div className="main-content">
-                {/* One Page Description */}
                 <h1>About Me</h1>
                 <p>
-                    Based in Sydney, my interests as a software engineer are
-                    diverse and evolving. I'm particularly drawn to blockchain
-                    related technologies and smart contract development. I have
-                    a keen interest in data structures and algorithms, as they
-                    present intriguing puzzles to unravel. I'm also drawn to the
-                    challenges offered by distributed systems and
-                    multithreading. Both these areas keep my curiosity piqued
-                    and my skills sharpened. Beyond the tech realm, my downtime
-                    sees me on the basketball court, strategizing over a
-                    chessboard, rallying on the tennis court, or immersed in a
-                    compelling read. For those intrigued by my literary
-                    adventures, you can explore{" "}
+                    I am a software engineer living in Sydney. I love working with
+                    blockchain technology and building smart contracts. I also enjoy
+                    solving problems using data structures and algorithms - it's like
+                    solving fun puzzles! When I'm not coding, I like to play chess,
+                    basketball, and tennis. I also love reading books. You can see{" "}
                     <a
                         href="https://www.goodreads.com/review/list/96235225?sort=rating"
                         className="books-link"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        the books I've read
+                        what I'm reading
                     </a>
-                    . Each of these passions provides a distinct flavor to my
-                    daily life, and I relish the balance they bring.
+                    .
                 </p>
             </div>
         </div>
