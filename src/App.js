@@ -4,7 +4,7 @@ import image from "./myImage.jpg";
 function App() {
     return (
         <div className="container">
-            <div className="left-column">
+            {/* <div className="left-column">
                 <div className="social-links">
                     <h2>Ayad Farhat</h2>
                     <a
@@ -66,7 +66,7 @@ function App() {
                     </a>
                     .
                 </p>
-            </div>
+            </div> */}
         </div>
     );
 }
